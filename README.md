@@ -6,7 +6,7 @@
 - Just honing my craft and trying new challenges. My main background is using C# in .NET framework. However, the most recent projects I've been involved with entail working a lot with Azure web apps and APIs. 
 
 🌱 I’m currently learning...
-- I've been learning a lot about Angular lately for my team's Okta implementation project.  
+- I've been learning a lot about Angular lately for my team's Okta implementation project. I also have been trying to learn more about security by doing practice labs.  
 
 💞️ I’m looking to collaborate on
 - Not really sure, but I'm willing to try my hand at just about anything.
